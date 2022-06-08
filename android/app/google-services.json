@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243843410772",
+    "project_id": "lesotho-taxi-rider-9b3b6",
+    "storage_bucket": "lesotho-taxi-rider-9b3b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243843410772:android:fc09ccb3f6ffcb427cb6c1",
+        "android_client_info": {
+          "package_name": "com.ramalitse.lesothotaxirider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243843410772-tbbqhbqpp9n3c1q0eg722p4cur8b7hsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmFlR4_VR6v9S2P6mgy0vnJtfElkNgXFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243843410772-tbbqhbqpp9n3c1q0eg722p4cur8b7hsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
