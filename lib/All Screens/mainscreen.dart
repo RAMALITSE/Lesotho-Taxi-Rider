@@ -12,7 +12,7 @@ class _MainScreenState extends State<MainScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Test"),
+        title: Text("Lesotho Taxi Rider"),
       ),
     );
   }

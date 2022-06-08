@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lesotho_taxi_rider/All%20Screens/login.dart';
 import 'package:lesotho_taxi_rider/All%20Screens/mainscreen.dart';
 
 void main() {
@@ -12,11 +13,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Lesotho Taxi Rider',
       theme: ThemeData(
+        fontFamily: "Brand Bold",
         primarySwatch: Colors.blue,
       ),
-      home: const MainScreen(),
+      home: const Login(),
       debugShowCheckedModeBanner: false,
     );
   }
