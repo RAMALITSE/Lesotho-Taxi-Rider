@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:lesotho_taxi_rider/All%20Screens/login.dart';
-import 'package:lesotho_taxi_rider/All%20Screens/mainscreen.dart';
 
 void main() {
   runApp(const MyApp());
