@@ -25,7 +25,7 @@ class Login extends StatelessWidget {
             height: 1.0,
           ),
           const Text(
-            "Login To Request A Car",
+            "Register now",
             style: TextStyle(fontSize: 24.0, fontFamily: "Brand-Bold"),
             textAlign: TextAlign.center,
           ),
